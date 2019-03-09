@@ -17,7 +17,7 @@ const transfers = [
   {
     value: 0,
     address: address,
-    message: 'HELLOWORLD'
+    message: 'Halle Welt'
   }
 ]
 
